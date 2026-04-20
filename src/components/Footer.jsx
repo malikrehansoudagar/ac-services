@@ -36,12 +36,12 @@ const Footer = () => {
             <ul>
               <li>📍 31, Gudihal Rd, Old Hubli, KA</li>
               <li>📞 073384 94564</li>
-              <li>✉️ info@hubliairconditioners.com</li>
+              <li>✉️ info@hubliac.com</li>
               <li>⏰ Open 24 Hours / 7 Days</li>
             </ul>
           </div>
         </div>
-        
+
         <div className="footer-bottom">
           <p>&copy; {currentYear} Hubli Airconditioners. All Rights Reserved.</p>
           <div className="footer-legal">
